@@ -1,3 +1,5 @@
 logs/*
 profiles/sim_warehouse.yml
 target/*
+.DS_Store
+
