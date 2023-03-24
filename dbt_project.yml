@@ -1,0 +1,6 @@
+name: "basicproject"
+
+config-version: 2
+version: '0.0.1'
+
+profile: "sim_warehouse"

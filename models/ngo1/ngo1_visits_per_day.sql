@@ -1,0 +1,1 @@
+SELECT DATE(date), gender, COUNT(1) FROM ngo1visits  GROUP BY date, gender
